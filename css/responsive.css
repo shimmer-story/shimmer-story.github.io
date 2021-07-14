@@ -9,6 +9,7 @@
 @media (max-width: 992px) {
   .hero_area {
     background-position: top left;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.5)), url(../images/bc1.jpg);
     min-height: auto;
   }
 
